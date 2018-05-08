@@ -1,0 +1,25 @@
+html,
+body {
+  height: 100%;
+  padding-top: 50px;
+  box-sizing: border-box;
+  background-color: cornflowerblue;
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+.snailbait-arena {
+  margin: 0 auto;
+  width: 800px;
+  height: 400px;
+}
+
+.snailbait-game-canvas {
+  border: 1px solid blueviolet;
+}
