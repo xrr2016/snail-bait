@@ -23,3 +23,8 @@ body {
 .snailbait-game-canvas {
   border: 1px solid blueviolet;
 }
+
+.snailbait-fps {
+  font-size: 1rem;
+  color: #fff;
+}
